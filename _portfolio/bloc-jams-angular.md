@@ -41,5 +41,6 @@ SongPlayer.next = function() {
 };
 {% endhighlight %}
 
+Through my refactoring, I greatly simplified this function, along with the rest of the application. Angular allowed me to deploy a project that worked the same way as my earlier BlocJams application, but with less code and much more organized.
 # Conclusion:
 This project was a helpful introduction to the Angular framework and gave me practical experience working with it. I see much value in Angular, especially in its ability to work with declarations right in the template, as well as keeping the application highly organized.

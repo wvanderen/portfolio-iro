@@ -3,15 +3,15 @@ layout: post
 title: BlocJams
 feature-img: img/sample_feature_img.png"
 thumbnail-path: "img/BlocJamsCrop.png"
-short-description: BlocJams is a Spotify replica I build while learning the fundamentals of HTML, CSS, Javascript, and JQuery.
+short-description: BlocJams is a Spotify replica I built while learning the fundamentals of HTML, CSS, Javascript, and JQuery.
 ---
 
 # Summary:
-BlocJams is a Spotify replica I build while learning the fundamentals of HTML, CSS, Javascript, and JQuery.
+BlocJams is a Spotify replica I built while learning the fundamentals of HTML, CSS, Javascript, and JQuery.
 # Explanation:
 As part of the Bloc curriculum, I was challenged very early on to apply the programming skills I'd learned to build a working application.
 # Problem:
-The challenge was to build a working music player from the ground up. This included building the page structure of the application as well as scripting to make the player functional.
+The challenge was to build a working music player from the ground up. This included building the page structure of the application as well as scripting to make the player functional. I was tasked with building a landing page, a collection view page, and an album view page. There also needed to be a player that could play songs and change between them.
 # Solution:
 First, I was guided to build the HTML and CSS of the various pages. Later on, I employed DOM scripting and later JQuery to make the player functional.
 # Results:
@@ -51,4 +51,4 @@ var nextSong = function() {
 {% endhighlight %}
 
 # Conclusion:
-This project was a great opportunity to get practical experience working with Javascript and JQuery. I was challenged to step back and really think about how the problem should be solved before attempting to implement a solution. Confronted with problems more complex than I'd tackled before, I was forced to learn by doing, sometimes requiring extensive troubleshooting and research. Through this process I learned to persevere through many of the difficulties associated with programming.
+This project was a great opportunity to get practical experience working with Javascript and JQuery. I was challenged to step back and really think about how the problem should be solved before attempting to implement a solution. Confronted with problems much more complex than I'd tackled before, I was forced to learn by doing, sometimes requiring extensive troubleshooting and research. Through this process I learned to persevere through many of the difficulties associated with programming.

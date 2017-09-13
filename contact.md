@@ -12,7 +12,8 @@ Thanks for checking out my portfolio. Fill out the form below if you'd like to g
   <input type='hidden' name='redirect_to' value='http://wvanderen.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
-
+  <br>
   <textarea name='message' placeholder='Write your message ...'></textarea>
+
   <input type='submit' value='Send Message' />
 </form>
